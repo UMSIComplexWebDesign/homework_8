@@ -1,2 +1,2 @@
 # homework_8
-Starter code for jQuery homework
+For the starter code for jQuery homework use the js_challenges_class_exercises code at: https://github.com/UMSIComplexWebDesign/js_challenges_class_exercise
